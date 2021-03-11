@@ -1,6 +1,6 @@
-package com.github.milvintsiss.pluginmanager.services
+package com.milvintsiss.pluginmanager.services
 
-import com.github.milvintsiss.pluginmanager.MyBundle
+import com.milvintsiss.pluginmanager.MyBundle
 
 class MyApplicationService {
 

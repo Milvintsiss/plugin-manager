@@ -1,6 +1,6 @@
-package com.github.milvintsiss.pluginmanager.listeners
+package com.milvintsiss.pluginmanager.listeners
 
-import com.github.milvintsiss.pluginmanager.services.MyProjectService
+import com.milvintsiss.pluginmanager.services.MyProjectService
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
